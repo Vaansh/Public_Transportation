@@ -1,7 +1,7 @@
 # Public Transportation
-Public transportation project to practice object-oriented programming concepts.
+Public transportation is an assignment to practice various object-oriented programming concepts.
 
-**Concepts Used:**
+**Particularly, Concepts Used:**
 - Basic Data Maniuplation
 - Arrays
 - Classes & Objects
